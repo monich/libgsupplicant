@@ -1,3 +1,1 @@
-This is a glib-based wrapper for wpa_supplicant D-Bus interfaces:
-
-https://w1.fi/wpa_supplicant/devel/dbus.html
+This project has migrated to https://git.merproject.org/mer-core/libgsupplicant
